@@ -60,11 +60,11 @@ Example PR template:
   - Testing instructions
   - Checklist
 
-## Links to external docs &amp; communication channels
+## Links to external docs & communication channels
 - Contributor Covenant (code of conduct): https://www.contributor-covenant.org/
 - GitHub Issues guide: https://docs.github.com/en/issues
 - GitHub Pull Requests guide: https://docs.github.com/en/pull-requests
-- GitHub Discussions (for general Q&amp;A): https://docs.github.com/en/discussions
+- GitHub Discussions (for general Q&A): https://docs.github.com/en/discussions
 
 If you want mailing list-style communication, consider using GitHub Discussions or a short community mailing list; include setup instructions here (or add a link) once created.
 
@@ -73,7 +73,7 @@ Do not disclose security vulnerabilities in a public issue. If you discover a se
 1. Check for a SECURITY.md file in this repo and follow it.
 2. If none, contact maintainers privately (use the repository's listed maintainer contact) or use GitHub's security advisories.
 
-## Community &amp; behavioral expectations
+## Community & behavioral expectations
 We want the project to be welcoming and productive:
 - Be respectful and assume good intent.
 - Be inclusive: avoid discriminatory or harassing language or behavior.
@@ -81,7 +81,7 @@ We want the project to be welcoming and productive:
 - Keep discussions on-topic and relevant to the repository.
 - Follow the Code of Conduct. Violations may result in moderation actions.
 
-If you witness or experience unacceptable behavior, report it to the maintainers as directed by the CODE_OF_CONDUCT or SECURITY.md.
+If you witness or experience unacceptable behavior, report it to the maintainers as directed by the CODE_OF_CONDUCT.md or SECURITY.md.
 
 ## Getting help or contributing other ways
 - Good first issues: label issues suitable for newcomers with "good first issue".
