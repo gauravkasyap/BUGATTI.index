@@ -84,7 +84,8 @@ Add a GitHub Actions workflow to run tests on PRs for automated checks.
 
 ## License
 
-Add a LICENSE file to the repository (for example, MIT) and update this section with the chosen license name and year.
+MIT License Copyright (c) 2025 Gaurav kumar
+
 
 ## Contact / Maintainers
 
